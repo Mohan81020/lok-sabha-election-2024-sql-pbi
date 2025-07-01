@@ -48,7 +48,7 @@ The dataset contains row-level data of each candidate contesting in every consti
 
 ---
 
-## ❓ Questions We Want to Answer
+## ❓ Questions Answered
 
 1. Which party secured the highest number of seats?
 2. What is the distribution of votes by party and state?
