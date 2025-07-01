@@ -23,7 +23,7 @@ The key focus areas include:
   👉 [SQL Code](./Election_Result_2024_Analysis.sql)
 - **Power BI** — For data visualization and dashboarding  
   👉 [Dashboard Screenshot](./election_Result_2024_Analysis.png)
-- **Excel / CSV** — Raw dataset in spreadsheet format  
+- **Excel** — Raw dataset in spreadsheet format  
   👉 [Dataset File](./Dataset/election_result_2024.xlsx)
 
 ---
