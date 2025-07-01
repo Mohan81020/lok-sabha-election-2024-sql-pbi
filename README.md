@@ -22,9 +22,9 @@ The key focus areas include:
 - **SQL Server** — For querying, aggregation, and KPI extraction  
   👉 [SQL Code](./Election_Result_2024_Analysis.sql)
 - **Power BI** — For data visualization and dashboarding  
-  👉 [Dashboard Screenshot](./Election_Result_2024_Analysis.png)
+  👉 [Dashboard Screenshot](./election_Result_2024_Analysis.png)
 - **Excel / CSV** — Raw dataset in spreadsheet format  
-  👉 [Dataset File](./DataSet/election_result_2024.xlsx)
+  👉 [Dataset File](./Dataset/election_result_2024.xlsx)
 
 ---
 
