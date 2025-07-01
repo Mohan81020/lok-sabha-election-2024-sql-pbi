@@ -80,7 +80,7 @@ The dataset contains row-level data of each candidate contesting in every consti
 - **Interactive Filters by State & Constituency**
 - **Party-wise Constituency Table**
 
-📎 *Refer to dashboard screenshot in the repository or click [here](#) if hosted.*
+> 📍 *See Power BI dashboard screenshots [here](./election_Result_2024_Analysis.png).*
 
 ---
 
@@ -92,14 +92,15 @@ The approach can be scaled to analyze elections across years and regions, making
 
 ---
 
-## 🔖 Tags / Topics
+---
 
-`sql` `power-bi` `data-analysis` `election-analysis` `lok-sabha-2024` `visualization` `dashboard` `portfolio-project` `indian-politics`
+## 📬 Contact
+
+**Author**: Mohan Kumar  
+**Mail**: mohan122000kumar@gmail.com
 
 ---
 
-## 🙋‍♂️ Author
+⭐ *Feel free to fork or star this repo if you found it useful!*
 
-**Mohan Kumar**  
-*Aspiring Data Analyst | SQL | Power BI | Excel | Data Storytelling*
 
